@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Experimento añadiendo una nueva línea al archivo_a.txt en la rama experimento
 Añado una segunda línea al archivo_a.txt en la rama master
+=======
+Inserto una línea en el archivo_a.txt
+>>>>>>> pruebas
+Resuelvo el conflicto en esta primera Línea del archivo_a.txt
+También modifico la segunda Línea del archivo_a.txt
